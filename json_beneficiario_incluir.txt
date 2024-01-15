@@ -1,0 +1,7 @@
+{
+"nome": "Marcio Moraes Maia",
+"telefone": "11980666969",
+"datanascimento": "1969-05-24",
+"datainclusao": "2024-01-11T10:00:00",
+"dataatualizacao": "2024-01-11T10:00:00"
+}

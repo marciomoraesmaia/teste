@@ -1,0 +1,12 @@
+/api/documentos  -incluir
+/api/documentos/update/{}  - update
+/api/documentos/delete/{} - delete
+/api/documentos/lista  - lista
+/api/documentos/get/{} - unique
+
+
+/api/beneficiarios  -incluir
+/api/beneficiarios/update/{}  - update
+/api/beneficiarios/delete/{} - delete
+/api/beneficiarios/lista  - lista
+/api/beneficiarios/get/{} - unique

@@ -1,0 +1,9 @@
+{
+  "tipodocumento": "CPF",
+  "descricao": "Documento de Identificação",
+  "datainclusao": "2024-01-11",
+  "dataatualizacao": "2024-01-12",
+  "beneficiario": {
+  "id": 5
+  }
+}
